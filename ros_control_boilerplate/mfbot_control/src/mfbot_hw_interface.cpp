@@ -41,7 +41,6 @@
 #include "std_msgs/String.h"
 #include <sstream>
 
-//testtwo
 namespace mfbot_control
 {
 
